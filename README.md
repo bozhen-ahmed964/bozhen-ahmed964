@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bozhen Ahmed</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src="https://github.com/kvssankar/kvssankar![image](https://user-images.githubusercontent.com/73129016/179211823-60e45d31-c834-4bd7-bf7a-273bafb493c6.png)
+<img src="https://github.com/kvssankar/kvssankar![image](https://user-images.githubusercontent.com/73129016/179211823-60e45d31-c834-4bd7-bf7a-273bafb493c6.png
 " align="center" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhen-ahmed964&label=Profile%20views&color=0e75b6&style=flat" alt="bozhen-ahmed964" /> </p>
 
