@@ -39,7 +39,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bozhen-ahmed964&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bozhen-ahmed964&theme=algolia&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bozhen-ahmed964&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
